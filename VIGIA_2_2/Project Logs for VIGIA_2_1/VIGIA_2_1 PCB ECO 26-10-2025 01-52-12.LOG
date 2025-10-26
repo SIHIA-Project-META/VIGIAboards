@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=LEDDBG1 Pin=J1-02
+Removed Pin From Net: NetName=LEDDBG2 Pin=J1-03
+Removed Pin From Net: NetName=BTN Pin=J1-06
+Removed Pin From Net: NetName=MBAT Pin=J1-07
+Removed Pin From Net: NetName=CTRLM1 Pin=J2-01
+Removed Pin From Net: NetName=CTRLM2 Pin=J2-02
+Removed Pin From Net: NetName=CTRLM3 Pin=J2-05
+Removed Pin From Net: NetName=CTRLM4 Pin=J2-06
+Added Component: Designator=MicroControler(ESP32-CAM)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-CAM/AI-Thinker/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AI-Thinker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-CAM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-CAM/AI-Thinker/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CTRLM4 Pin=J1-02
+Added Pin To Net: NetName=CTRLM3 Pin=J1-03
+Added Pin To Net: NetName=CTRLM2 Pin=J1-06
+Added Pin To Net: NetName=CTRLM1 Pin=J1-07
+Added Pin To Net: NetName=GND Pin=MicroControler-P$1
+Added Pin To Net: NetName=CTRLM4 Pin=MicroControler-P$2
+Added Pin To Net: NetName=CTRLM3 Pin=MicroControler-P$3
+Added Pin To Net: NetName=NetJ1_04 Pin=MicroControler-P$4
+Added Pin To Net: NetName=NetJ1_05 Pin=MicroControler-P$5
+Added Pin To Net: NetName=CTRLM2 Pin=MicroControler-P$6
+Added Pin To Net: NetName=CTRLM1 Pin=MicroControler-P$7
+Added Pin To Net: NetName=3.3V Pin=MicroControler-P$8
+Added Pin To Net: NetName=NetJ2_08 Pin=MicroControler-P$9
+Added Pin To Net: NetName=NetJ2_07 Pin=MicroControler-P$10
+Added Pin To Net: NetName=SCL Pin=MicroControler-P$13
+Added Pin To Net: NetName=SDA Pin=MicroControler-P$14
+Added Pin To Net: NetName=NetJ2_01 Pin=J2-01
+Added Pin To Net: NetName=NetJ2_01 Pin=MicroControler-P$16
+Added Net: Name=NetJ2_01
+Added Pin To Net: NetName=NetJ2_02 Pin=J2-02
+Added Pin To Net: NetName=NetJ2_02 Pin=MicroControler-P$15
+Added Net: Name=NetJ2_02
+Added Pin To Net: NetName=NetJ2_05 Pin=J2-05
+Added Pin To Net: NetName=NetJ2_05 Pin=MicroControler-P$12
+Added Net: Name=NetJ2_05
+Added Pin To Net: NetName=NetJ2_06 Pin=J2-06
+Added Pin To Net: NetName=NetJ2_06 Pin=MicroControler-P$11
+Added Net: Name=NetJ2_06
+Added Member To Class: ClassName=Esquematico Member=Component MicroControler ESP32-CAM
