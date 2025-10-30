@@ -1,0 +1,1 @@
+Nova versão da placa para aguentar motores puxando 16A.
