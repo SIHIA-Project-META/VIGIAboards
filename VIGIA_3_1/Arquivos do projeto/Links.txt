@@ -1,0 +1,2 @@
+https://components101.com/modules/esp32-cam-camera-module
+https://github.com/abish7643/ESP32Cam-I2CSensors

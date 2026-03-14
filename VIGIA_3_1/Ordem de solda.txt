@@ -1,0 +1,6 @@
+Soldar vias
+Soldar resistores
+Soldar IMU
+Soldar alimentação
+Soldar barra de pinos
+Soldar motores

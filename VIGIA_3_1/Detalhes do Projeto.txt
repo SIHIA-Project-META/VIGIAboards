@@ -1,0 +1,6 @@
+Uma nova versão da placa demanda componentes TrueHole devido a alta taxa inserida nos componentes SMD.
+
+Microcontrolador: Esp32-CAM
+MOSFETs: IRFZ14
+Resistores: todos TrueHole
+Regulador de tensão: Próprio do ESP.
